@@ -1,0 +1,15 @@
+D:\拾光纪\shiguangji\Common\Common.DomainEvent\bin\Debug\net10.0\Common.DomainEvent.deps.json
+D:\拾光纪\shiguangji\Common\Common.DomainEvent\bin\Debug\net10.0\Common.DomainEvent.dll
+D:\拾光纪\shiguangji\Common\Common.DomainEvent\bin\Debug\net10.0\Common.DomainEvent.pdb
+D:\拾光纪\shiguangji\Common\Common.DomainEvent\obj\Debug\net10.0\Common.DomainEvent.csproj.AssemblyReference.cache
+D:\拾光纪\shiguangji\Common\Common.DomainEvent\obj\Debug\net10.0\Common.DomainEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\拾光纪\shiguangji\Common\Common.DomainEvent\obj\Debug\net10.0\Common.DomainEvent.AssemblyInfoInputs.cache
+D:\拾光纪\shiguangji\Common\Common.DomainEvent\obj\Debug\net10.0\Common.DomainEvent.AssemblyInfo.cs
+D:\拾光纪\shiguangji\Common\Common.DomainEvent\obj\Debug\net10.0\Common.DomainEvent.csproj.CoreCompileInputs.cache
+D:\拾光纪\shiguangji\Common\Common.DomainEvent\obj\Debug\net10.0\Common.DomainEvent.dll
+D:\拾光纪\shiguangji\Common\Common.DomainEvent\obj\Debug\net10.0\refint\Common.DomainEvent.dll
+D:\拾光纪\shiguangji\Common\Common.DomainEvent\obj\Debug\net10.0\Common.DomainEvent.pdb
+D:\拾光纪\shiguangji\Common\Common.DomainEvent\obj\Debug\net10.0\ref\Common.DomainEvent.dll
+D:\拾光纪\shiguangji\Common\Common.DomainEvent\bin\Debug\net10.0\Common.EF.dll
+D:\拾光纪\shiguangji\Common\Common.DomainEvent\bin\Debug\net10.0\Common.EF.pdb
+D:\拾光纪\shiguangji\Common\Common.DomainEvent\obj\Debug\net10.0\Common.D.171B6AEE.Up2Date

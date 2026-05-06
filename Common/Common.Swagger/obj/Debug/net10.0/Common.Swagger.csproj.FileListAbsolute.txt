@@ -1,0 +1,12 @@
+D:\拾光纪\shiguangji\Common\Common.Swagger\bin\Debug\net10.0\Common.Swagger.deps.json
+D:\拾光纪\shiguangji\Common\Common.Swagger\bin\Debug\net10.0\Common.Swagger.dll
+D:\拾光纪\shiguangji\Common\Common.Swagger\bin\Debug\net10.0\Common.Swagger.pdb
+D:\拾光纪\shiguangji\Common\Common.Swagger\obj\Debug\net10.0\Common.Swagger.csproj.AssemblyReference.cache
+D:\拾光纪\shiguangji\Common\Common.Swagger\obj\Debug\net10.0\Common.Swagger.GeneratedMSBuildEditorConfig.editorconfig
+D:\拾光纪\shiguangji\Common\Common.Swagger\obj\Debug\net10.0\Common.Swagger.AssemblyInfoInputs.cache
+D:\拾光纪\shiguangji\Common\Common.Swagger\obj\Debug\net10.0\Common.Swagger.AssemblyInfo.cs
+D:\拾光纪\shiguangji\Common\Common.Swagger\obj\Debug\net10.0\Common.Swagger.csproj.CoreCompileInputs.cache
+D:\拾光纪\shiguangji\Common\Common.Swagger\obj\Debug\net10.0\Common.Swagger.dll
+D:\拾光纪\shiguangji\Common\Common.Swagger\obj\Debug\net10.0\refint\Common.Swagger.dll
+D:\拾光纪\shiguangji\Common\Common.Swagger\obj\Debug\net10.0\Common.Swagger.pdb
+D:\拾光纪\shiguangji\Common\Common.Swagger\obj\Debug\net10.0\ref\Common.Swagger.dll

@@ -1,0 +1,12 @@
+D:\拾光纪\shiguangji\Common\Common.Auth\bin\Debug\net10.0\Common.Auth.deps.json
+D:\拾光纪\shiguangji\Common\Common.Auth\bin\Debug\net10.0\Common.Auth.dll
+D:\拾光纪\shiguangji\Common\Common.Auth\bin\Debug\net10.0\Common.Auth.pdb
+D:\拾光纪\shiguangji\Common\Common.Auth\obj\Debug\net10.0\Common.Auth.csproj.AssemblyReference.cache
+D:\拾光纪\shiguangji\Common\Common.Auth\obj\Debug\net10.0\Common.Auth.GeneratedMSBuildEditorConfig.editorconfig
+D:\拾光纪\shiguangji\Common\Common.Auth\obj\Debug\net10.0\Common.Auth.AssemblyInfoInputs.cache
+D:\拾光纪\shiguangji\Common\Common.Auth\obj\Debug\net10.0\Common.Auth.AssemblyInfo.cs
+D:\拾光纪\shiguangji\Common\Common.Auth\obj\Debug\net10.0\Common.Auth.csproj.CoreCompileInputs.cache
+D:\拾光纪\shiguangji\Common\Common.Auth\obj\Debug\net10.0\Common.Auth.dll
+D:\拾光纪\shiguangji\Common\Common.Auth\obj\Debug\net10.0\refint\Common.Auth.dll
+D:\拾光纪\shiguangji\Common\Common.Auth\obj\Debug\net10.0\Common.Auth.pdb
+D:\拾光纪\shiguangji\Common\Common.Auth\obj\Debug\net10.0\ref\Common.Auth.dll

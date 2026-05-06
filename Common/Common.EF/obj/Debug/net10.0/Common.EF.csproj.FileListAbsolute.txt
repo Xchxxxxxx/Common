@@ -1,0 +1,14 @@
+D:\拾光纪\shiguangji\Common\Common.EF\bin\Debug\net10.0\Common.EF.deps.json
+D:\拾光纪\shiguangji\Common\Common.EF\bin\Debug\net10.0\Common.EF.runtimeconfig.json
+D:\拾光纪\shiguangji\Common\Common.EF\bin\Debug\net10.0\Common.EF.dll
+D:\拾光纪\shiguangji\Common\Common.EF\bin\Debug\net10.0\Common.EF.pdb
+D:\拾光纪\shiguangji\Common\Common.EF\obj\Debug\net10.0\Common.EF.csproj.AssemblyReference.cache
+D:\拾光纪\shiguangji\Common\Common.EF\obj\Debug\net10.0\Common.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\拾光纪\shiguangji\Common\Common.EF\obj\Debug\net10.0\Common.EF.AssemblyInfoInputs.cache
+D:\拾光纪\shiguangji\Common\Common.EF\obj\Debug\net10.0\Common.EF.AssemblyInfo.cs
+D:\拾光纪\shiguangji\Common\Common.EF\obj\Debug\net10.0\Common.EF.csproj.CoreCompileInputs.cache
+D:\拾光纪\shiguangji\Common\Common.EF\obj\Debug\net10.0\Common.EF.dll
+D:\拾光纪\shiguangji\Common\Common.EF\obj\Debug\net10.0\refint\Common.EF.dll
+D:\拾光纪\shiguangji\Common\Common.EF\obj\Debug\net10.0\Common.EF.pdb
+D:\拾光纪\shiguangji\Common\Common.EF\obj\Debug\net10.0\Common.EF.genruntimeconfig.cache
+D:\拾光纪\shiguangji\Common\Common.EF\obj\Debug\net10.0\ref\Common.EF.dll
